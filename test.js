@@ -1,0 +1,3 @@
+modify = require('./index');
+
+modify();

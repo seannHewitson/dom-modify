@@ -1,0 +1,25 @@
+{
+  "name": "dom-modify",
+  "version": "1.0.0",
+  "description": "Modify dom containers ( resize, reposition )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seannHewitson/dom-modify.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "dom",
+    "node",
+    "npm"
+  ],
+  "author": "Sean Hewitson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seannHewitson/dom-modify/issues"
+  },
+  "homepage": "https://github.com/seannHewitson/dom-modify#readme"
+}
